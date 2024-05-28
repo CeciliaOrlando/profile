@@ -1,0 +1,90 @@
+body{
+  background-color: #eee8d9;
+  color: #708090;
+  font-family: "Space Mono";
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: lighter;
+}
+
+h1{
+  font-family: "roboto";
+  color: #060606;
+  font-size: 30px;
+  line-height: 20px;
+  text-align: center;
+  font-weight: lighter;
+  font-weight: 500;
+}
+
+h2{
+  font-family: "roboto";
+  color: #23232a;
+  font-size: 25px;
+  line-height: 20px;
+  text-align: center;
+  font-weight: lighter;
+  font-weight: 500;
+}
+a{
+  text-decoration: nome;
+  color: #6082b6;
+  font-size: 18px;
+  font-weight: 600;
+  font-size: 16px;
+  justify-content: center;
+}
+a:hover{
+  text-align: center;
+  background-color: #373734;
+  color: #DBD7D2;
+}
+
+.card-imagen{
+border: 1px solid rgb(156, 129, 129);
+border-radius: 5px;
+box-shadow: 2px 2px 3px rgb(165, 162, 162);
+height: 300px;
+display: flex;
+justify-content: center;
+align-items: center;
+border: 1px solid black;
+width: 700px;
+padding: 0%;
+}
+
+.card-presentacion{
+  border: 1px solid rgb(156, 129, 129);
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px rgb(165, 162, 162);
+  padding: 40px;
+}
+.card-redes{
+  border: 1px solid rgb(156, 129, 129);
+  box-shadow: 2px 2px 3px rgb(165, 162, 162);
+  border-radius: 4px;
+  text-align: center;
+  background-color: #e3e3e3;
+  color: #DBD7D2;
+}
+
+img{
+  border-radius: 50%;
+}
+
+#profile-pic{
+  width: 200px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.container{
+  width: 700px;
+  margin: 40px auto;
+  background-color: #e5e4e5;
+}
+
+.ul{
+  padding: 0px;
+  background-color: #e5e4e5;
+}
